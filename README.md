@@ -7,9 +7,9 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS
+- Linter
+- Github Actions
 
 ## Live Demo (if available)
 
@@ -42,9 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle](https://github.com/normainobary2021)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle](https://twitter.com/twitterhandle](https://twitter.com/NormanAinobush2)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/norman-ainobushoborozi)
+- GitHub: [@githubhandle](https://github.com/normainobary2021)
+- Twitter: [@twitterhandle](https://twitter.com/NormanAinobush2)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/norman-ainobushoborozi)
 
 ## 🤝 Contributing
 
