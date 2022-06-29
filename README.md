@@ -42,9 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/normainobary2021)
-- Twitter: [@twitterhandle](https://twitter.com/NormanAinobush2)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/norman-ainobushoborozi)
+- GitHub: [@normainobary2021](https://github.com/normainobary2021)
+- Twitter: [@NormanAinobush2](https://twitter.com/NormanAinobush2)
+- LinkedIn: [norman-ainobushoborozi](https://linkedin.com/in/norman-ainobushoborozi)
 
 ## 🤝 Contributing
 
